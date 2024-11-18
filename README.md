@@ -16,7 +16,7 @@
 </table>
 
 # Project Proposal: Concrete Slump predictor
-![image](![image](https://github.com/user-attachments/assets/e16e724b-3411-4a8a-89a6-cf6207fb7150)
+(![image](https://github.com/user-attachments/assets/e16e724b-3411-4a8a-89a6-cf6207fb7150)
 )
 
 [Link For Project Proposal](https://github.com/laibaa1209/PAI-Project-24/tree/main/proposal)
