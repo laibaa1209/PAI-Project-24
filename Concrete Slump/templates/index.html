@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/static/styles.css">
+    <title>Concrete Slump Predictor</title>
+</head>
+<body>
+    <div class="container">
+        <h1>Concrete Slump Predictor</h1>
+        <form action="/predict" method="post">
+            <label for="water">Water (kg/m³):</label>
+            <input type="number" name="water" required>
+
+            <label for="cement">Cement (kg/m³):</label>
+            <input type="number" name="cement" required>
+
+            <label for="aggregate">Aggregate (kg/m³):</label>
+            <input type="number" name="aggregate" required>
+
+            <label for="Fine Aggregate">Fine Aggregate (kg/m³):</label>
+            <input type="number" name="Fine Aggregate" required>
+
+            <label for="slag">slag (kg/m³):</label>
+            <input type="number" name="slag" required>
+
+            <label for="Fly ash">Fly ash (kg/m³):</label>
+            <input type="number" name="Fly ash" required>
+
+            <label for="SP">SP (kg/m³):</label>
+            <input type="number" name="SP" required>
+
+            <label for="flow">Flow (cm):</label>
+            <input type="number" name="flow" required>
+
+            <label for="compressive strength">compressive strength(28 day)(Mpa):</label>
+            <input type="number" name="compressive strength" required>
+
+            <button type="submit">Predict</button>
+        </form>
+    </div>
+</body>
+</html>
