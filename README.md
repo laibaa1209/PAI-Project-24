@@ -19,7 +19,7 @@
 
 [Link For Project Proposal](https://github.com/laibaa1209/PAI-Project-24/tree/main/proposal)
 
-# Concrete Slump Prediction Project
+# Introduction
 
 This project focuses on analyzing the Concrete Slump dataset from Kaggle to predict slump values based on concrete mixture ingredients. It involves data cleaning, statistical analysis, a Linear Regression model, and a user-friendly interface for practical applications.
 
